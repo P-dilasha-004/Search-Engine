@@ -30,3 +30,75 @@ Search-Engine/
 │   ├── test_search_three.py # Tests for search_three module
 └── README.md              # Project documentation
 ```
+## Installation
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/P-dilasha-004/Search-Engine.git
+cd Search-Engine
+```
+## Usage
+
+### Running the Search Engine
+
+Execute any of the search modules:
+
+```bash
+python search_one.py
+```
+Or
+```bash
+python search_two.py
+```
+Or
+```bash
+python search_three.py
+```
+## Performing a Search
+
+- Enter a keyword to search for articles.
+- Select advanced search options if needed.
+- View refined results based on filters applied.
+
+## Testing
+
+Run the test suite to verify functionality:
+
+```bash
+pytest tests/
+```
+## Contributing
+
+Contributions are welcome! Follow these steps:
+
+1. **Fork the repository.**
+2. **Create a new branch:**
+
+```bash
+git checkout -b feature/your_feature_name
+```
+3. Implement your changes and commit them:
+
+```bash
+git commit -m "Describe your changes"
+```
+4. Push your changes:
+
+```bash
+git push origin feature/your_feature_name
+```
+5. Open a Pull Request explaining your modifications.
+
+## License 
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowlegments
+
+This project was built as part of my class coursework to enhance my understanding of search algorithms and Python development.  
+
+Special thanks to my instructor and classmates for their support and feedback throughout the project.  
+
+
+
+
