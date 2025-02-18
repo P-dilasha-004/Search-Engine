@@ -91,7 +91,7 @@ git push origin feature/your_feature_name
 5. Open a Pull Request explaining your modifications.
 
 ## License 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/P-dilasha-004/Search-Engine/blob/main/LICENSE) file for details.
 
 ## Acknowlegments
 
