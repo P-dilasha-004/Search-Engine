@@ -17,6 +17,7 @@ The Search Engine project is a Python-based tool that indexes and retrieves arti
 - **Comprehensive Testing Suite**: Unit tests ensure code correctness and functionality.
 
 ## Project Structure
+```bash
 Search-Engine/
 ├── search_one.py          # Basic search functionality
 ├── search_two.py          # Metadata-based search operations
@@ -28,3 +29,4 @@ Search-Engine/
 │   ├── test_search_two.py # Tests for search_two module
 │   ├── test_search_three.py # Tests for search_three module
 └── README.md              # Project documentation
+```
